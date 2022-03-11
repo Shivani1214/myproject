@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reacttask-project/static/css/main.114c4bcf.css",
+    "main.js": "/reacttask-project/static/js/main.b189f09f.js",
+    "static/js/787.e403dcb9.chunk.js": "/reacttask-project/static/js/787.e403dcb9.chunk.js",
+    "static/media/pizzaLeft.jpg": "/reacttask-project/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
+    "static/media/vegan.jpg": "/reacttask-project/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
+    "static/media/pineapple.jpg": "/reacttask-project/static/media/pineapple.a01ab9be389f0e6bd6ec.jpg",
+    "static/media/Fries.jpg": "/reacttask-project/static/media/Fries.578b4cbc63fac44dccee.jpg",
+    "static/media/pepsi.jpg": "/reacttask-project/static/media/pepsi.1cd40a27d075b029461b.jpg",
+    "static/media/humberger.jpg": "/reacttask-project/static/media/humberger.edb48456a94a0b6c1ec8.jpg",
+    "index.html": "/reacttask-project/index.html",
+    "main.114c4bcf.css.map": "/reacttask-project/static/css/main.114c4bcf.css.map",
+    "main.b189f09f.js.map": "/reacttask-project/static/js/main.b189f09f.js.map",
+    "787.e403dcb9.chunk.js.map": "/reacttask-project/static/js/787.e403dcb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.114c4bcf.css",
+    "static/js/main.b189f09f.js"
+  ]
+}
